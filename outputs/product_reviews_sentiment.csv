@@ -1,0 +1,4 @@
+﻿primary_key,title,review_text,date,rating,source,reviewer_name,sentiment,sentiment_score
+TEST001,Excellent product,This product works perfectly and is very easy to use.,2026-09-15,5,Illustrative test data,Test Reviewer 1,Positive,0.8122
+TEST002,Average quality,"The product is okay, but the quality could be better.",2026-09-16,3,Illustrative test data,Test Reviewer 2,Positive,0.6486
+TEST003,Very disappointing,It stopped working quickly and I am very unhappy.,2026-09-17,1,Illustrative test data,Test Reviewer 3,Negative,-0.6115
